@@ -1,0 +1,182 @@
+/* HHC colors 
+ * Blue: #357FDB
+ * Orange #ff653e
+ 
+ */
+
+h1, h2, h3{font-family: 'Pathway Gothic One', sans-serif;
+}
+
+p {font-family: 'Raleway', sans-serif;
+}
+
+body{
+	padding-top: 150px;
+}
+
+nav, footer{
+	background-color: #fff;
+	text-align: center;
+}
+
+.head{
+	
+     
+             color:#fff;
+             background-color: #ff653e;
+             width:40%;
+             min-width:600px;
+             padding:10px;
+        }       
+
+
+
+
+.floatl{
+	float:left;
+	
+}
+
+/* Home Page 
+ * 
+ */
+#Logo{
+	width:350px;
+	height:350px;
+	padding-right:10px;
+	float: right;
+	
+}
+
+.sm {
+	float:right;
+}
+.sml{
+	height:75px;
+	width:75px;
+	
+	
+}
+
+#home{
+	background-image: url('img/2ndwall.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	
+}  
+
+
+.Mtext{
+	
+	background-color: #fff;
+	width:500px;
+	padding:10px;
+	min-width:500px;
+    font-size: medium;
+    color:#4b4b4b;
+    display: inline-block;
+    
+    
+}
+
+ #indexhead{
+ 			
+ 			
+             color:#fff;
+             background-color: #ff563e;
+             width:500px;
+             min-width:500px;
+             padding:10px;
+                         
+             
+            
+ }
+ 
+ .content{
+ 	width:600px;
+ }
+ /*history page
+  * 
+  */
+#history{
+	background-image: url('img/graff.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	min-width:500px;
+	
+}  
+
+section {
+	background-color:#fff;
+	padding: 10px; 
+	color: #000;
+	 max-height: 400px;
+	 overflow:scroll;
+	
+}
+section nav img {
+	display :inline-block;
+    margin-left:auto;
+    margin-right: auto;
+	
+}
+
+.img {
+	max-width: 100%;
+    margin: 0 auto;
+}
+
+/*Events page 
+ * 
+ */
+#events{
+	background-image: url('img/hatScene.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+
+
+/*contact page
+ * 
+ */
+#contact{
+	background-image: url('img/flight .jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+}
+#officers{
+	float:right;
+    width:350px;
+	
+}
+
+#officers img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+#forms{
+	display:inline-block;
+	
+}
+.Ctext{
+	background-color: #fff;
+	width:500px;
+	padding:10px;
+	min-width:700px;
+	
+    font-size: medium;
+    color:#4b4b4b;
+    display: inline-block;
+}
+
+
+
+
+.space{
+	border-style: solid;
+}
+
+}
+

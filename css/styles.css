@@ -1,0 +1,344 @@
+@media all and (max-width: 699px){
+  .jumbotron{
+    visibility: hidden;
+    position: fixed;
+      
+}
+    
+ .atb {
+   display: none;
+    
+}
+  
+    
+}
+
+
+@media all and (min-width: 699px){
+    
+    #MoBanner img{
+        visibility: collapse;
+        position: fixed;
+    }
+    
+}
+
+
+/*** Over all selector classes****/
+body {
+  padding-top: 50px;
+}
+
+article{
+	margin-top:100px;
+	margin-left:100px;
+	
+}
+ul{
+  list-style-type: none;
+}
+
+/*fonts*/
+
+h1,h2,h3,h4{
+		font-family:'Open Sans', sans-serif;
+       
+}
+
+p{
+		font-family: 'Dosis', serif;
+        font-weight: 300;
+        font-size: 1.5em;
+}
+
+.panel-body img{
+    width: 300px;
+    height: 300px;
+
+}
+
+
+/****fixes for spacing issues***/
+.headText{
+	margin-top:30px;
+    text-align: center;
+}
+
+.atb{
+	margin:10px;
+}
+
+.resize{
+	width: 75px;
+	height:100px;
+	padding:20px;
+}
+
+/*Styling for jumbtron  and SC Logo*/
+.jumbotron{
+	background-image: url("Kevo_Jumbotron.png");
+        background-size: cover;
+        height: 100%;
+       background-color: #cccccc;
+       overflow: hidden;   
+        color:#cccccc;
+        height: 650px;
+}
+
+.jumbotron img{
+    margin-top: 100px;
+    width:100%;
+    height: auto;
+    margin-bottom: 0px;
+    opacity: 0.8;
+
+}
+/*mobile banner style**/
+#MoBanner img{
+   /*position: absolute;
+    top: 20px;
+    left: 0px;*/
+    margin-top: 30px;
+    width: 100%;
+    padding: 20px;
+    
+    height: auto;
+    
+    
+}
+
+
+
+
+/* Sc2015 logo  */
+.ml{
+	position:absolute;
+	top:2px;
+	margin-top:0px;
+        height: 50 px;
+        width: auto;
+
+}
+
+
+/*External Page links */
+
+.bars{
+    border-top: solid;
+    border-bottom: solid;
+    padding: 10px;
+    color: #4b4b4b;
+}
+.box{
+    text-align: center;
+    padding-left: 20px;
+
+
+
+}
+.box img{
+   
+	width:210px;
+	height:210px;
+    overflow: hidden;
+    color:#ff653e;
+	-webkit-transition: all .2s ease;
+     -moz-transition: all .2s ease;
+       -o-transition: all .2s ease;
+      -ms-transition: all .2s ease;
+          transition: all .2s ease;
+}
+
+    
+}
+a:hover{
+    
+    text-decoration: none;
+    color: dimgray;
+}
+
+
+
+.box img:hover{
+	transform: scale(1.1);    
+}
+
+
+/* divider class*/
+.bxt
+{
+	
+	
+	height: 90px;
+	text-align: center;
+	margin-top:3px;
+	color:#ff653e;
+    padding-top: 5px;
+}
+
+
+/*Artist boxes*/
+.smallbox{
+	width:100px;
+	height:100px; 
+	background-color:#111111;
+	margin: 0 auto ;
+}
+
+
+/*Merchant boxes 
+ */
+
+.shop{
+	width:300px;
+	height:300px;
+	
+}
+.shop img{
+	width: 100%;
+	height: inherit;
+	padding: 0;
+	margin: 0 auto;
+}
+
+/*Social media */
+.icons{
+	width:30px;
+	height:30px;
+	margin: 0 auto;
+	
+}
+
+/*contact */
+.contact {
+    margin-top: 200px;
+    margin-bottom: 200px;
+  
+}
+.contact p{
+	font-size: 2em;
+}
+
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+
+.fix{
+	text-align: center;
+}
+
+
+/*Schedule page*/
+.sch-txt{
+		width:75%;
+		padding-bottom: 50px;
+}
+
+/*.pad{
+	margin:10px;
+	
+	-moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+}
+*/
+.Ssize{
+	width: 300px;
+	height:300px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
+/*Gville page styles 
+ */
+.Gpics img{
+	width :200PX;
+	height:200px ;
+	
+	padding:0px;
+    
+}
+.txtbx{
+	display:inline-block;
+	width:255px;
+	margin:10px;
+	
+}
+
+
+.atext{
+	padding-top:30px;
+	margin:10px;
+	width: 700px;
+}
+
+.center{
+    margin: 0 auto;
+
+}
+
+.alt1{
+    background-color: #cccccc;
+    color: #000000;
+}
+ /*infographics */
+
+.days{
+   width: 100%;
+   margin: 0 auto;
+
+}
+
+footer img{
+    
+    height: 100px;
+    width: 100px;
+}
+
+.f-alt{
+    text-align: center;
+    vertical-align: text-bottom;
+    color: #cc3333;
+    height: 50px;
+    width: 100%;
+
+}
+.f-alt h3{
+    opacity: 0.5;
+
+}
+
+
+
+
+footer{
+    
+    
+    height: 400px;
+    width: 100%;
+    background-color: #222222;
+}
+
+.donate {
+    
+    padding-left: 110px;
+     
+    padding-top: 30px;
+    
+    
+    
+   
+
+}
+
+

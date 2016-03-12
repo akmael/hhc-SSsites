@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>Soul Cypher</title>
+		<meta name="generator" content="Bootply" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link href="css/styles.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Dosis:300,600' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<!---FONTS : 
+            Dosis: light 300 for body
+                   semi bold for headers 
+            Open Sans: Headers
+		 --->
+		
+	</head>
+	   <body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img class="ml" src="image/sc_icon.png" /></a>
+    </div>
+    <div class="collapse navbar-collapse pull-right">
+      <ul class="nav navbar-nav">
+              <li><a href="soulcypher">Home</a></li>
+         <li><a href="soulcypher#artist">Artist</a></li>  
+        
+        <li><a href="soulcypher#about">About</a></li>
+       
+        <li><a href="soulcypher#contact">Contact</a></li>  
+       
+      </ul>
+    </div><!--/.nav-collapse -->
+ 
+</div>
+</div>
+
+
+
+<div class="container ">
+  <div class=" jumbotron text-center">
+    
+        <img src="image/Logo.png" />
+       
+    
+  </div>
+<!---Mobile Banner--->
+    <div id="MoBanner" >
+        <img src="image/Logo.png">
+    </div>
+  
+  <div class="row row-centered">
+    <div class="col-lg-12 col-centered " ><!---Day1-->
+        <img class="days" src="image/Schedule1.png"/>
+    </div>
+    <div class="row row-centered">
+        <div class="col-lg-12 col-centered">
+         <img class="days" src="image/Schedule2.png"/>
+    </div>
+  </div>
+  <div class="row row-centered">
+        <div class="col-lg-12 col-centered">
+          <img class="days" src="image/Schedule3.png"/>
+            <h3>Want to sign up as an artist on day 3? Fill out this google <a href="https://docs.google.com/forms/d/13vWYh19i7eSD-_hdryzRkmaycqaWCD7e-8x-2EC957A/viewform?c=0&w=1">form</a>.</h3>
+            <h3>*Schedule subject to change without notice.</h3>
+
+        </div>
+    </div>
+  </div>
+  
+  
+</div>
+ <footer class="f-alt">
+      <h3>SoulCypher2015</h3>
+           
+  </footer>
+
+
+   
+  <!-- script references -->
+        <script src="js/jquery-2.1.4.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>Soul Cypher</title>
+		<meta name="generator" content="Bootply" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link href="css/styles.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Dosis:300,600' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<!---FONTS : 
+            Dosis: light 300 for body
+                   semi bold for headers 
+		    Open-Sans:Header 
+		 --->
+		
+	</head>
+	   <body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img class="ml" src="image/sc_icon.png" /></a>
+    </div>  
+    <div class="collapse navbar-collapse pull-right">
+       <ul class="nav navbar-nav">
+              <li><a href="soulcypher">Home</a></li>
+         <li><a href="soulcypher#artist">Artist</a></li>  
+        
+        <li><a href="soulcypher#about">About</a></li>
+       
+        <li><a href="soulcypher#contact">Contact</a></li>  
+       
+      </ul>
+    </div><!--/.nav-collapse -->
+ 
+</div>
+</div>
+
+
+
+<div class="container ">
+ <div class=" jumbotron text-center">
+    
+        <img src="image/Logo.png" />
+        
+    
+  </div>
+<!---Mobile Banner--->
+    <div id="MoBanner" >
+        <img src="image/Logo.png">
+    </div>
+    
+  <div class="row row-centered">
+      <div class="col-lg-12 col-centered"> <h1>Gainesville: Home of the Gators!</h1> </div>
+  </div>
+  <div class="row "></div><div class="row row-centered">
+      <div class="col-lg-12 col-centered"> <h2>Places to See</h2> </div>
+  </div>
+  
+  <div class="row row-centered">
+      <div class="col-lg-4 col-centered">
+          <div class="fixcont">
+           <div class="Gpics"><img src="image/kbg.jpg" /></div>
+           <div class="txtbx">
+                <h4>Kanapaha Botanical Gardens</h4>
+                <p>
+              
+               A beautiful garden located on the west side of Gainesville, excellent for some meditation time.
+           </p>
+         </div>
+           </div>
+      </div>
+      <div class="col-lg-4 col-centered"> 
+          <div class="fixcont">
+          <div class="Gpics"><img src="image/possum.jpg" /></div>
+           <div class="txtbx">
+                <h4>Possum Creek Skate</h4>
+                <p>
+                A free-to-access skate parks located on the north side of town, featuring stairs and a full size bowl.
+                   
+               </p>
+           </div>
+           </div>
+         </div>
+      <div class="col-lg-4 col-centered"> 
+          <div class="Gpics"><img src="image/hipp.jpg" /></div>
+               <div class="txtbx">
+                    <h4>The Hippodrome</h4>
+                <p>
+                   A major staple of Gainesville, The Hippodrome hosts a variety of plays, foreign films, and private partys. 
+               </p>
+           </div>
+          
+          
+          </div>
+    </div>
+     <div class="row row-centered">
+      <div class="col-lg-12 col-centered"> <h2>Places to Eat</h2> </div>
+      </div>
+  
+  <div class="row row-centered">
+      <div class="col-lg-4 col-centered">
+           <div class="Gpics"><img src="image/top.jpg" /></div>
+           <div class="txtbx">
+                <h4>The Top: Restaurant</h4>
+                <p>
+                    One of the "top" restaurants in Gainesville serving an excellent selection of food and drink.
+                   
+                </p>
+           </div>
+      </div>
+      <div class="col-lg-4 col-centered"> 
+          
+          <div class="Gpics"><img src="image/flacos.jpg" /></div>
+           <div class="txtbx">
+               <h4>Flaco's</h4>
+                <p>
+                  A popular late night restaurant, perfect after a long night of Gainesville of dancing.
+               </p>
+           </div>
+     </div>
+      <div class="col-lg-4 col-centered"> 
+          <div class="Gpics"><img src="image/sweetmel.jpg" /></div>
+               <div class="txtbx">
+                <h4>Sweet Mel's</h4>
+                <p>
+                   A Bar/Resturant/Club.
+                  Known for its Funnel Cake Burger, and great drink specials.
+               </p>
+           </div>
+          
+          
+          </div>
+    </div>
+    <div class="row row-centered">
+      <div class="col-lg-12 col-centered"> <h2>Places to Go</h2> </div>
+    </div>
+  
+  <div class="row row-centered">
+      <div class="col-lg-4 col-centered">
+           <div class="Gpics"><img src="image/atl1.jpg" /></div>
+           <div class="txtbx">
+               <h4>The Atlantic</h4>
+                <p>
+                  One of Gainesville's long standing music venues and also a favorite dance spot.      
+            
+                </p>
+           </div>
+      </div>
+      <div class="col-lg-4 col-centered"> 
+          
+          <div class="Gpics"><img src="image/barcade.jpg" /></div>
+          
+           <div class="txtbx">
+               <h4> Barcade </h4>
+                <p>
+                   The newest addition to downtown has become popular with the locals. 
+               </p>
+           </div>
+     </div>
+      <div class="col-lg-4 col-centered"> 
+          <div class="Gpics"><img src="image/top.jpg" /></div>
+               <div class="txtbx">
+               <h4> The Top: Bar</h4>
+                <p>
+                  Token Tuesdays, Great food and indoor and outdoor bar!!! Whats not to love?
+                   
+               </p>
+           </div>
+          
+          
+          </div>
+          </div><!---end row Places to go---->
+  
+</div>
+           </div>
+ <footer class="f-alt">
+      <h3>SoulCypher2015</h3>
+           
+  </footer>
+  <!-- script references -->
+        <script src="js/jquery-2.1.4.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>
